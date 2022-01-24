@@ -14,4 +14,4 @@ Read the final report on this project here on pages 2-6 here: [Understanding Art
           Keras for Predictive modelling
           Seaborn 0.11.2, Matplotlib for data visualization
 
-For code on data cleaning and model building, run notebook here: https://colab.research.google.com/drive/1UVYE1yTJ_sU2gShHShXGQ6zz0qZWKTNy?usp=sharing
+For code on data cleaning and model building, view notebook here: https://colab.research.google.com/drive/1UVYE1yTJ_sU2gShHShXGQ6zz0qZWKTNy?usp=sharing
